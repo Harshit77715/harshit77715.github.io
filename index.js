@@ -14,32 +14,6 @@ window.onscroll = () => {
 };
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
-  window.open("https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link", "_blank");
+  window.open("https://drive.google.com/file/d/1a-6_OkxqcvH2e6a0eVD94LqfwAAY7LMb/view?usp=drive_link", "_blank");
 });
 
-// document.getElementById('resume-button-2').addEventListener("click", () => {
-//   window.open("https://drive.google.com/file/d/1UAj5f-fHiInGHRnJJjCvNHGGwzpm3RMo/view?usp=share_link", "_blank");
-// });
-
-// // owl carousel script 
-// $('.carousel').owlCarousel({
-//   margin: 20,
-//   loop: true,
-//   autoplay: true,
-//   autoplayTimeOut: 2000,
-//   autoplayHoverPause: true,
-//   responsive: {
-//     0: {
-//       items: 1,
-//       nav: false
-//     },
-//     800: {
-//       items: 2,
-//       nav: false
-//     },
-//     // 1000: {
-//     //   items: 3,
-//     //   nav: false
-//     // }
-//   }
-// });
